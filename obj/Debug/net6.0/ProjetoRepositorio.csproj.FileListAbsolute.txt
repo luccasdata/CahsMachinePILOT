@@ -1,0 +1,30 @@
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\bin\Debug\net6.0\ProjetoRepositorio.exe
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\bin\Debug\net6.0\ProjetoRepositorio.deps.json
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\bin\Debug\net6.0\ProjetoRepositorio.runtimeconfig.json
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\bin\Debug\net6.0\ProjetoRepositorio.dll
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\bin\Debug\net6.0\ref\ProjetoRepositorio.dll
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\bin\Debug\net6.0\ProjetoRepositorio.pdb
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\obj\Debug\net6.0\ProjetoRepositorio.csproj.AssemblyReference.cache
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\obj\Debug\net6.0\ProjetoRepositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\obj\Debug\net6.0\ProjetoRepositorio.AssemblyInfoInputs.cache
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\obj\Debug\net6.0\ProjetoRepositorio.AssemblyInfo.cs
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\obj\Debug\net6.0\ProjetoRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\obj\Debug\net6.0\ProjetoRepositorio.dll
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\obj\Debug\net6.0\ref\ProjetoRepositorio.dll
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\obj\Debug\net6.0\ProjetoRepositorio.pdb
+C:\Users\lucas.santos\Desktop\Projetos\ProjetoRepositorio\obj\Debug\net6.0\ProjetoRepositorio.genruntimeconfig.cache
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\bin\Debug\net6.0\ProjetoRepositorio.exe
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\bin\Debug\net6.0\ProjetoRepositorio.deps.json
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\bin\Debug\net6.0\ProjetoRepositorio.runtimeconfig.json
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\bin\Debug\net6.0\ProjetoRepositorio.dll
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\bin\Debug\net6.0\ref\ProjetoRepositorio.dll
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\bin\Debug\net6.0\ProjetoRepositorio.pdb
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\obj\Debug\net6.0\ProjetoRepositorio.csproj.AssemblyReference.cache
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\obj\Debug\net6.0\ProjetoRepositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\obj\Debug\net6.0\ProjetoRepositorio.AssemblyInfoInputs.cache
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\obj\Debug\net6.0\ProjetoRepositorio.AssemblyInfo.cs
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\obj\Debug\net6.0\ProjetoRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\obj\Debug\net6.0\ProjetoRepositorio.dll
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\obj\Debug\net6.0\ref\ProjetoRepositorio.dll
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\obj\Debug\net6.0\ProjetoRepositorio.pdb
+C:\Users\lucas.santos\Desktop\Projetos Gamba\CahsMachinePILOT\obj\Debug\net6.0\ProjetoRepositorio.genruntimeconfig.cache
